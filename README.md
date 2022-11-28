@@ -17,6 +17,9 @@
  I will be looking for missing value and problems in quality  and/or structure. We will be removing extraneous data and making modifications, 
  such as replacing information and removing duplicates, to ensure our dataset is trim and clean for analysis
  
+ ![image](https://user-images.githubusercontent.com/82849694/204338052-c2156bc2-9c51-400a-94a1-908bced20a04.png)
+There appears to be a strong positive correlation between sqft living, sqft above, and sqft living15 and price. This is not the case for sqft basement, sqft lot, and sqft lot15. It is self-evident that larger houses are more expensive. The graphs also show that the majority of houses lack a basement and land space, despite the fact that the price does not increase linearly with larger basement and land space. I discovered that sqft living is the sum of sqft above and sqft basement.
+ 
  ## Final Result and Conclusion.
  ![image](https://user-images.githubusercontent.com/82849694/204337390-a5676ab5-af7c-46fb-9f7e-77273e543f2f.png)
 
