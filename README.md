@@ -11,24 +11,21 @@
  
  ## Business Problem.
  I'll show you how I used Python to create a multiple linear regression model to predict house prices.
-![image](https://user-images.githubusercontent.com/82849694/203416414-109f557b-b4a7-4ec9-bdd7-1be8085ee9f3.png)
-
- 
 
  ## Data Analysis and Understanding.
  In this step, I gathered data, a csv spreadsheet, then load it into a dataframe to assess its quality.
  I will be looking for missing value and problems in quality  and/or structure. We will be removing extraneous data and making modifications, 
  such as replacing information and removing duplicates, to ensure our dataset is trim and clean for analysis
  
- ## Final Results.
+ ## Final Result and Conclusion.
  Since the model can only explain 0.699-0.656% of the variance in house prices (R-squared), there is still some room for error.
  The projections will need to be double-checked to verify they make sense given what is known about the house.
  The resulting model is multicollinear, but the metrics show that it is not overfitting and can estimate house prices on unseen test data with accuracy.
 
-
- ## Conclusion.
-
-
+ ## Next Step.
+ Future work would need more insight into how zipcode influenced house prices, as the amount of houses in specific zipcodes have higher sales prices.
+ To determine the  validity of the data further, I will use the polynomial regression model.
+ 
  ## For Additional Information
  The full analysis can be found the Jupyter Notebook.
 
