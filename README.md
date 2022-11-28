@@ -24,8 +24,7 @@
  Since the model can only explain 0.699-0.656% of the variance in house prices (R-squared), there is still some room for error.
  The projections will need to be double-checked to verify they make sense given what is known about the house.
  The resulting model is multicollinear, but the metrics show that it is not overfitting and can estimate house prices on unseen test data with accuracy.
- 
- ![image](https://user-images.githubusercontent.com/82849694/203427815-c07ef82a-09e7-43b1-adc6-8902cc66343c.png)
+
 
  ## Conclusion.
 
