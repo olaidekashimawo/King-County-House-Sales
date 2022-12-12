@@ -23,7 +23,7 @@ There appears to be a strong positive correlation between sqft living, sqft abov
  ## Final Result and Conclusion.
  ![image](https://user-images.githubusercontent.com/82849694/204337390-a5676ab5-af7c-46fb-9f7e-77273e543f2f.png)
 
- Since the model can only explain 0.764-0.711% of the variance in house prices (R-squared), there is still some room for error.
+ Since the model can only explain 0.676-0.697% of the variance in house prices (R-squared), there is still some room for error.
  The projections will need to be double-checked to verify they make sense given what is known about the house.
  The resulting model is multicollinear, but the metrics show that it is not overfitting and can estimate house prices on unseen test data with accuracy.
 
