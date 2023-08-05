@@ -1,5 +1,5 @@
 # King-County-House-Sales
-# Movie analysis
+
 
 ![image](https://user-images.githubusercontent.com/82849694/203416288-515b5a5c-657b-4885-974c-0ef53a4c2b1a.png)
 
